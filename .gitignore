@@ -1,5 +1,4 @@
-# Data files (large)
-data/
+# Keep zip files out (extracted data is tracked)
 *.zip
 
 # Python
